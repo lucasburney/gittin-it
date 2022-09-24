@@ -1,1 +1,3 @@
 Hello Git and GitHub
+
+I'M ADDING NEW LINES TO THIS LITTLE GIT.
